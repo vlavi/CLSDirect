@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Mar 13 09:24:41 2023
+
+@author: vvisipkov
+"""
+
 """
 Class to access CLSdirect api to request metadata or data series.
 To request any data via CLS direct a token must be generated which will be active
